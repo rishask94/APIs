@@ -1,0 +1,17 @@
+{
+    "url": "https://www.cdc.gov",
+    "content_present_bool": true,
+    "content_present": "larc",
+    "links": [
+        "https://www.cdc.gov/nchs/nsfg/key_statistics/L.htm",
+        "https://www.cdc.gov/nchs/products/databriefs/db188.htm",
+        "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6413a6.htm",
+        "https://www.cdc.gov/reproductivehealth/contraception/mmwr/mec/intro.html",
+        "https://www.cdc.gov/vitalsigns/pdf/2015-04-vitalsigns.pdf",
+        "https://www.cdc.gov/healthyyouth/healthservices/infobriefs/birth_control_information.htm",
+        "https://www.cdc.gov/mmwr/volumes/65/wr/mm6530e2.htm",
+        "https://www.cdc.gov/nchs/products/databriefs/db327.htm",
+        "https://www.cdc.gov/mmwr/pdf/wk/mm64e0407.pdf",
+        "https://www.cdc.gov/reproductivehealth/contraception/mmwr/spr/intro.html"
+    ]
+}
